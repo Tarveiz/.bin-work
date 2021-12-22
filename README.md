@@ -1,4 +1,4 @@
-# ConsoleApp1
+# .bin work
 Читать побайтово файл в формате Bin.
 Язык программирования: C#
 Платформа: Microsoft Visual Studio, .Net Core 3.1
